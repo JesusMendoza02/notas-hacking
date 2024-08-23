@@ -1,6 +1,7 @@
 # Retos Bandit 
 
-# Level 0
+
+# Level 0 a Level 1
 
 ## Objetivo 
 
@@ -11,10 +12,8 @@ cuenta
 **bandit0**
 passw
 **bandit0**
-
 ## Solución 
-![[Pasted image 20240822203404.png]]
-![[Pasted image 20240822203432.png]]
+![[Pasted image 20240822203313.png]]
 ## Notas adicionales 
-
+Se encuentra la llave dentro del unico archivo que se encontraba ahi 
 ## Referencias 
