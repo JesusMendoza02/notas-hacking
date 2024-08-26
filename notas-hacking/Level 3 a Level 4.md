@@ -13,6 +13,7 @@ passw
 MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
 
 ## Solución 
+```
 bandit3@bandit:~$ ls
 inhere
 bandit3@bandit:~$ cd inhere/
@@ -23,6 +24,8 @@ bandit3@bandit:~/inhere$ find
 bandit3@bandit:~/inhere$ cat ./...Hiding-From-You
 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
 bandit3@bandit:~/inhere$
+```
+
 ## Notas adicionales 
 El archivo estaba oculto en la carpeta por lo cual busque con find para encontrarla y aplicarle el cat 
 ## Referencias 

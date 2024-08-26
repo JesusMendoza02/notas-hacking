@@ -16,7 +16,7 @@ passw
 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
 
 ## Solución 
-
+```
 bandit5@bandit:~$ ls
 inhere
 bandit5@bandit:~$ cd inhere/
@@ -145,6 +145,8 @@ cat: .file2: No such file or directory
 bandit5@bandit:~/inhere$ cat maybehere07/.file2
 HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         bandit5@bandit:~/inhere$
+```
+
 ## Notas adicionales
 se buscaba un archivo con 1033 bytes y que no fuera un ejecutable buscando en cada carpeta se encontro en la 07 en el archivo .file2
 

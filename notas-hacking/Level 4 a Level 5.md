@@ -13,6 +13,7 @@ passw
 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
 
 ## Solución 
+```
 bandit4@bandit:~$ ls
 inhere
 bandit4@bandit:~$ cd inhere/
@@ -58,6 +59,7 @@ T՜Fǭbandit4@bandit:~/inhere$ cat ./-file06
 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
 bandit4@bandit:~/inhere$
 
+```
 
 ##Notas adicionales
 solo se podia leer el archivo 7 que contenia la contra

@@ -14,7 +14,7 @@ passw
 
 ## Solución 
 
-
+```
 C:\Users\Jesus>ssh bandit0@bandit.labs.overthewire.org -p 2220
                          _                     _ _ _
                         | |__   __ _ _ __   __| (_) |_
@@ -109,6 +109,8 @@ discord or IRC.
   For support, questions or comments, contact us on discord or IRC.
 
   Enjoy your stay!
+```
+
 ## Notas adicionales 
 
 ## Referencias 

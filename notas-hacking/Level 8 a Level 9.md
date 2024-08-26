@@ -13,12 +13,14 @@ passw
 dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
 
 ## Solución 
-
+```
 bandit8@bandit:~$ ls
 data.txt
 bandit8@bandit:~$ sort data.txt | uniq -u
 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
 bandit8@bandit:~$
+```
+
 ## Notas adicionales
 Busca la palabra unica, pero primero los ordena para poder buscar las coincidencias
 ## Referencias 

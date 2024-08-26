@@ -13,6 +13,7 @@ passw
 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
 
 ## Solución 
+```
 bandit2@bandit:~$ ls
 spaces in this filename
 bandit2@bandit:~$ find
@@ -24,6 +25,8 @@ bandit2@bandit:~$ find
 bandit2@bandit:~$ cat "spaces in this filename"
 MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
 bandit2@bandit:~$
+```
+
 ## Notas adicionales 
  el nombre del archivo tenia espacios por lo cual solo tenia que ponerse comillas
 ## Referencias 

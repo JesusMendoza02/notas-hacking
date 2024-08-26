@@ -13,12 +13,14 @@ passw
 morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
 
 ## Solución 
-
+```
 bandit7@bandit:~$ ls
 data.txt
 bandit7@bandit:~$ grep -i millionth data.txt
 millionth       dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
 bandit7@bandit:~$
+```
+
 
 ## Notas adicionales
 

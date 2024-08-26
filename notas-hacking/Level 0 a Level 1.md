@@ -13,6 +13,7 @@ cuenta
 passw
 **bandit0**
 ## Solución 
+```
 bandit0@bandit:~$ ls
 readme
 bandit0@bandit:~$ cat readme
@@ -25,6 +26,8 @@ contribute to the OverTheWire community so we can keep these games free!
 The password you are looking for is: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 
 bandit0@bandit:~$
+```
+
 ## Notas adicionales 
 Se encuentra la llave dentro del unico archivo que se encontraba ahi 
 ## Referencias 

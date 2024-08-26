@@ -13,6 +13,7 @@ passw
 ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 
 ## Solución 
+```
 bandit1@bandit:~$ ls
 -
 bandit1@bandit:~$ cat -
@@ -20,6 +21,8 @@ bandit1@bandit:~$ cat -
 bandit1@bandit:~$ cat ./-
 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
 bandit1@bandit:~$
+```
+
 ## Notas adicionales 
 al parecer para abrirlo se tiene que especificar la ruta del archivo completa 
 ## Referencias 
