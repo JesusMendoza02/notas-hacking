@@ -11,7 +11,7 @@ passw
  dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
 
 ## Solución 
-```
+```bash
 bandit11@bandit:~$ cat data.txt
 Gur cnffjbeq vf 7k16JArUVv5LxVuJfsSVdbbtaHGlw9D4
 bandit11@bandit:~$ alias rot13="tr 'A-Za-z' 'N-ZA-Mn-za-m'"
@@ -24,6 +24,6 @@ bandit11@bandit:~$
 ```
 
 ## Notas adicionales
-
+el archivo se tiene que rotar el archivo 13 veces en el alfabeto  asi que solo se crea un alias con el comando rot13 lo cual va a decodificar la contrasena y ya solo se hace cat y se aplica el rot13
 ## Referencias 
 https://stackoverflow.com/questions/5442436/using-rot13-and-tr-command-for-having-an-encrypted-email-address

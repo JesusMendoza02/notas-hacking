@@ -13,7 +13,7 @@ passw
 ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 
 ## Solución 
-```
+```bash
 bandit1@bandit:~$ ls
 -
 bandit1@bandit:~$ cat -

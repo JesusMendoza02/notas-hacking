@@ -13,7 +13,7 @@ passw
 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
 
 ## Solución 
-```
+```bash
 bandit9@bandit:~$ ls
 data.txt
 bandit9@bandit:~$ grep -a -o '==.*' data.txt 

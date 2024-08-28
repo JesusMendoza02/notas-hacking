@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas-hacking/Level 9 a Level 10.md",
+                "file": "notas-hacking/Level 12 a Level 13.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,6 +176,30 @@
             }
           },
           {
+            "id": "38f9c6f8d03ba6a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notas-hacking/Level 13 a Level 14.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e73df106c4a12341",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notas-hacking/Level 14 a Level 15.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "162b1fefdf98f4a9",
             "type": "leaf",
             "state": {
@@ -188,7 +212,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -315,23 +339,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "31548918af5870ab",
+  "active": "a76065d1f010b741",
   "lastOpenFiles": [
-    "notas-hacking/Level 11 a Level 12.md",
-    "notas-hacking/Level 12 a Level 13.md",
-    "notas-hacking/Level 10 a Level 11.md",
-    "notas-hacking/Level 9 a Level 10.md",
-    "notas-hacking/Level 8 a Level 9.md",
-    "notas-hacking/Level 7 a Level 8.md",
-    "notas-hacking/Level 6  a Level 7.md",
-    "notas-hacking/Level 5 a Level 6.md",
-    "notas-hacking/Level 4 a Level 5.md",
-    "notas-hacking/Level 3 a Level 4.md",
-    "notas-hacking/Level 2 a Level 3.md",
-    "notas-hacking/Level 1 a Level 2.md",
-    "notas-hacking/Level 0 a Level 1.md",
-    "notas-hacking/Level 0.md",
+    "notas-hacking/Level 13 a Level 14.md",
+    "notas-hacking/Level 14 a Level 15.md",
     "notas-hacking/plantilla.md",
+    "notas-hacking/Level 9 a Level 10.md",
+    "notas-hacking/Level 12 a Level 13.md",
+    "notas-hacking/Level 0 a Level 1.md",
+    "notas-hacking/Level 1 a Level 2.md",
+    "notas-hacking/Level 2 a Level 3.md",
+    "notas-hacking/Level 3 a Level 4.md",
+    "notas-hacking/Level 4 a Level 5.md",
+    "notas-hacking/Level 5 a Level 6.md",
+    "notas-hacking/Level 6  a Level 7.md",
+    "notas-hacking/Level 7 a Level 8.md",
+    "notas-hacking/Level 8 a Level 9.md",
+    "notas-hacking/Level 10 a Level 11.md",
+    "notas-hacking/Level 11 a Level 12.md",
+    "notas-hacking/Level 0.md",
     "Untitled 1.md",
     "png/Pasted image 20240822204201.png",
     "png/Pasted image 20240822203432.png",

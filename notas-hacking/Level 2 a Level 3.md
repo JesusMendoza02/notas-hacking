@@ -13,7 +13,7 @@ passw
 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
 
 ## Solución 
-```
+```bash
 bandit2@bandit:~$ ls
 spaces in this filename
 bandit2@bandit:~$ find

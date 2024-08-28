@@ -11,7 +11,7 @@ passw
  FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
 
 ## Solución 
-```
+```bash
 bandit10@bandit:~$ base64 -d <<< data.txt
 uZbase64: invalid input
 bandit10@bandit:~$ openssl  base64 -d <<< data.txt
@@ -23,6 +23,6 @@ bandit10@bandit:~$
 ```
 
 ## Notas adicionales
-El texto estaba en base64 entonces solo se tenia que decodificar
+El texto estaba en base64 entonces solo se tenia que decodificar utilizando base64 -d 
 ## Referencias 
 https://www.baeldung.com/linux/cli-base64-encode-decode

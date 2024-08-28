@@ -13,7 +13,7 @@ passw
 dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
 
 ## Solución 
-```
+```bash
 bandit8@bandit:~$ ls
 data.txt
 bandit8@bandit:~$ sort data.txt | uniq -u

@@ -13,7 +13,7 @@ passw
 MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
 
 ## Solución 
-```
+```bash
 bandit3@bandit:~$ ls
 inhere
 bandit3@bandit:~$ cd inhere/

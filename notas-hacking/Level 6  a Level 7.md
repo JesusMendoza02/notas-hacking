@@ -17,7 +17,7 @@ passw
 HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
 
 ## Solución 
-```
+```bash
 bandit6@bandit:~$ ls
 bandit6@bandit:~$ find ./ -user bandit7 -group bandit6 -size 33c
 bandit6@bandit:~$ find /. -user bandit7 -group bandit6 -size 33c
