@@ -133,7 +133,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas-hacking/Level 12 a Level 13.md",
+                "file": "notas-hacking/Level 14 a Level 15.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e081d7edae0ced8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notas-hacking/Level 15 a Level 16.md",
                 "mode": "source",
                 "source": false
               }
@@ -212,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -278,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notas-hacking/Level 12 a Level 13.md",
+                "file": "notas-hacking/Level 15 a Level 16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notas-hacking/Level 12 a Level 13.md",
+                "file": "notas-hacking/Level 15 a Level 16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,7 +330,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notas-hacking/Level 12 a Level 13.md"
+                "file": "notas-hacking/Level 15 a Level 16.md"
               }
             }
           }
@@ -339,13 +351,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a76065d1f010b741",
+  "active": "7e081d7edae0ced8",
   "lastOpenFiles": [
-    "notas-hacking/Level 13 a Level 14.md",
     "notas-hacking/Level 14 a Level 15.md",
+    "notas-hacking/Level 15 a Level 16.md",
+    "notas-hacking/Level 12 a Level 13.md",
+    "notas-hacking/Level 13 a Level 14.md",
     "notas-hacking/plantilla.md",
     "notas-hacking/Level 9 a Level 10.md",
-    "notas-hacking/Level 12 a Level 13.md",
     "notas-hacking/Level 0 a Level 1.md",
     "notas-hacking/Level 1 a Level 2.md",
     "notas-hacking/Level 2 a Level 3.md",
