@@ -55,6 +55,6 @@ bandit27@bandit:/tmp/tmp.ahf6fo6SFF/repo$
 
 crear mktemp-d 
 clonar repositorio git clone despues de host poner el puerto 2220
-pide passw del nivel 26
+pide passw del nivel 27
 hacer cat al readme
 ## Referencias 

@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6798f943663f8871",
+        "id": "b35f28306426f026",
         "type": "tabs",
         "children": [
           {
-            "id": "7af62eef0e437195",
+            "id": "ab6064db1507fd30",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notas-hacking/Level 23 a Level 24.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bae0c662d3889e7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notas-hacking/Level 25 a Level 26.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notas-hacking/Level 25 a Level 26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notas-hacking/Level 25 a Level 26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "notas-hacking/Level 25 a Level 26.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,14 +138,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "31548918af5870ab",
+  "active": "ab6064db1507fd30",
   "lastOpenFiles": [
+    "notas-hacking/Level 23 a Level 24.md",
+    "notas-hacking/Level 33 a Level 34.md",
+    "notas-hacking/Level 32 a Level 33.md",
+    "notas-hacking/Level 31 a Level 32.md",
+    "notas-hacking/Level 30 a Level 31.md",
+    "notas-hacking/Level 29 a Level 30.md",
+    "notas-hacking/Level 28 a Level 29.md",
     "notas-hacking/Level 26 a Level 27.md",
     "notas-hacking/Level 27 a Level 28.md",
     "notas-hacking/Level 25 a Level 26.md",
     "notas-hacking/Level 24 a Level 25.md",
     "Untitled.md",
-    "notas-hacking/Level 23 a Level 24.md",
     "notas-hacking/Level 22 a Level 23.md",
     "notas-hacking/Level 21 a Level 22.md",
     "notas-hacking/Level 20 a Level 21.md",
@@ -181,12 +166,6 @@
     "notas-hacking/Level 11 a Level 12.md",
     "notas-hacking/Level 10 a Level 11.md",
     "notas-hacking/Level 0.md",
-    "notas-hacking/Level 16 a Level 17.md",
-    "notas-hacking/Level 9 a Level 10.md",
-    "notas-hacking/Level 0 a Level 1.md",
-    "notas-hacking/Level 1 a Level 2.md",
-    "notas-hacking/Level 2 a Level 3.md",
-    "notas-hacking/Level 3 a Level 4.md",
     "png/Pasted image 20240822204201.png",
     "png/Pasted image 20240822203432.png",
     "png/Pasted image 20240822203404.png",
