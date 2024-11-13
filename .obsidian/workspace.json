@@ -11,8 +11,14 @@
             "id": "ab6064db1507fd30",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "notas-picoCTF-BInexp/5 - buffer overflow 0.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5 - buffer overflow 0"
             }
           }
         ]
@@ -35,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -50,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -58,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -88,7 +100,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -99,7 +113,9 @@
               "state": {
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -110,7 +126,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -118,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ]
@@ -140,6 +160,14 @@
   },
   "active": "ab6064db1507fd30",
   "lastOpenFiles": [
+    "notas-picoCTF-BInexp/Plantilla.md",
+    "notas-picoCTF-BInexp/5 - buffer overflow 0.md",
+    "notas-picoCTF-BInexp/4 - basic file exploit.md",
+    "notas-picoCTF-BInexp/3 - stonks.md",
+    "notas-picoCTF-BInexp/1 - rps.md",
+    "notas-picoCTF-BInexp/2 - flag leak.md",
+    "notas-picoCTF-Web/Plantilla.md",
+    "notas-picoCTF-BInexp",
     "notas-hacking/Level 23 a Level 24.md",
     "notas-hacking/Level 33 a Level 34.md",
     "notas-hacking/Level 32 a Level 33.md",
@@ -151,7 +179,6 @@
     "notas-hacking/Level 27 a Level 28.md",
     "notas-hacking/Level 25 a Level 26.md",
     "notas-hacking/Level 24 a Level 25.md",
-    "Untitled.md",
     "notas-hacking/Level 22 a Level 23.md",
     "notas-hacking/Level 21 a Level 22.md",
     "notas-hacking/Level 20 a Level 21.md",
@@ -160,12 +187,6 @@
     "notas-hacking/Level 15 a Level 16.md",
     "notas-hacking/Level 17 a Level 18.md",
     "notas-hacking/plantilla.md",
-    "notas-hacking/Level 14 a Level 15.md",
-    "notas-hacking/Level 13 a Level 14.md",
-    "notas-hacking/Level 12 a Level 13.md",
-    "notas-hacking/Level 11 a Level 12.md",
-    "notas-hacking/Level 10 a Level 11.md",
-    "notas-hacking/Level 0.md",
     "png/Pasted image 20240822204201.png",
     "png/Pasted image 20240822203432.png",
     "png/Pasted image 20240822203404.png",
